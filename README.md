@@ -20,20 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Leticia-Emily-Moraes&icon=5&color=5)](https://visitcount.itsvg.in)
-
-**<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leticia-emily-moraes&label=Profile%20views&color=0e75b6&style=flat" alt="leticia-emily-moraes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leticia-emily-moraes" alt="leticia-emily-moraes" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticia-emily-moraes&show_icons=true&locale=en&layout=compact" alt="leticia-emily-moraes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leticia-emily-moraes&show_icons=true&locale=en" alt="leticia-emily-moraes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leticia-emily-moraes&" alt="leticia-emily-moraes" /></p>
-
