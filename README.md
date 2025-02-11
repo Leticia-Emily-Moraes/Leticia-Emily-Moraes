@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I am currently an intern at ETEC in Rio Grande da Serra, where I also finish my technical degree in Systems Development<br>🌱 I currently study a lot of Web Development, with HTML, Css, JavaScript, React.JS, TypeScript and Node.js<br>💬 Ask me about anything related to web development<br>⚡ Fun fact, I had no idea what programming was before the technician, when I started, I fell in love at the same moment
+# 💫 About me:
+🔭 I'm a Systems Development Technician and I'm currently an intern at FITEC - technological solutions, I also do computer engineering at Fundação Salvador Arena;<br>
+🌱 I currently study a lot of Web Development, with HTML, Css, JavaScript, React.JS, TypeScript, Java, C#, MySql and MongoDB and Node.js;<br>
+💬 Ask me about anything related to Systems development;<br>
+⚡ Fun fact, I had no idea what programming was before the technician, when I started programming I instantly fell in love with it.
 
 
 ## 🌐 Socials:
